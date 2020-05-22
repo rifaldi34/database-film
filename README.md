@@ -1,4 +1,4 @@
-# database-film
+# Database-Film
 Ini adalah program PHP untuk database film
 
 # Screenshots
@@ -12,7 +12,7 @@ Ini adalah program PHP untuk database film
 - Responsive UI
 - Tambah, Edit, dan Hapus menggunakan JavaScript
 
-# cara penginstallan
+# Cara penginstallan
 1. Download [disini](https://github.com/rifaldi34/database-film/archive/master.zip)
 2. Ekstrak file yang sudah di download
 3. Masukan sql ke database
