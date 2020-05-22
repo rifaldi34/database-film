@@ -17,4 +17,4 @@ Ini adalah program PHP untuk database film
 2. Ekstrak file yang sudah di download
 3. Masukan sql ke database
 4. Copy hasil ekstrakan ke folder htdocs
-5. setting config.php
+5. setting config.php dan koneksi.php
