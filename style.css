@@ -1,0 +1,147 @@
+/*warna warna : f96232 ffd536 242d3c*/
+body{
+	background-color: rgb(0,0,0, 0.9);
+}
+.bg-1{
+	background-image: url(images/bg-1.jpg);
+	background-repeat: no-repeat;
+}
+.bg-nav-1{
+	background-color: rgb(0, 0, 0, 0.6);
+}
+.content1{
+	background-color: rgb(0, 0, 0, 0.6);
+	padding:30px;
+	text-align: center;
+	max-width: 500px;
+	align-self: center;
+	margin: auto;
+	border-radius: 20px;
+	color: white;
+	cursor: grab;
+}
+.note{
+	color: white;
+	background-color: rgb(0, 0, 0, 0.6);
+	max-width: 430px;
+}
+
+.btn-danger-1{
+	background-color: red;
+}
+.img1{
+	max-width: 90%;
+	height: auto;
+	position: relative;
+	z-index: 2;
+}
+.img2{
+	width: 98%;
+}
+.container2{
+	max-width: 500px;
+	float:left;
+}
+.mrg1{
+	margin-top: 50px;
+}
+.bg-2{
+	padding:100px 0px;
+}
+
+.bg-3{
+	background-color: rgb(0,0,0, 0.6);
+	color: white;
+}
+
+.text1{
+	color:white;
+	margin-top: -20px;
+	background-color: black;
+	width:90%;
+}
+.text2{
+	color:white;
+	margin-top: -20px;
+	background-color: black;
+	width:90%;
+}
+.text3{
+	color:white;
+}
+.navbar{
+	padding: .2rem 1rem;
+}
+.nomor{
+	background-color: black;
+	padding:3px 10px;
+	width:40px;
+	text-align: center;
+}
+.table1 {
+	width: 100%;
+	margin-top: 20px;
+}
+.table2{
+	width:98%;
+}
+td {
+	padding:5px 10px;
+	text-align: center;
+	border:1px solid rgb(20,20,20);
+}
+.modal-content{
+	background:none;
+}
+.close{
+	color:white;
+}
+.close:hover{
+	color:white;
+}
+.btn{
+	border-radius: 1px;
+}
+.btn-danger{
+	background-color: red;
+}
+.table-dark{
+	background-color: black;
+}
+.table-dark td{
+	border:1px solid rgb(20,20,20);
+}
+.container2{
+
+}
+@media only screen and (max-width: 991px) {
+	.mrg2.row {
+		margin-left: -17px;
+	}
+	.container-fluid {
+		padding-left:25px;
+	}
+	.col-sm-12 {
+		padding-right: 0px;
+	}
+	.row {
+		margin-left:0px;
+	}
+	.img1, .text1 {
+		max-width: 100%;
+		width:100%;
+	}
+	.container-fluid.bg-2 {
+		padding-left:0px;
+	}
+	.col-lg-3 {
+		padding: 0px 10px;
+	}
+	.modal-content {
+		transform: scale(87%);
+	}
+	.container2{
+		max-width: 500px;
+		float:none;
+	}
+}
