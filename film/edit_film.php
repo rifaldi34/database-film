@@ -39,7 +39,7 @@
 			
 			if($sql) {
 				//echo "Data Berhasil Di Input";
-				header("location:show_film.php");
+				header("location:film.php");
 			} else {
 				echo "Data Gagal Update";
 			}
